@@ -56,7 +56,11 @@ This is compared to the previous rendering engine where the entire line would be
 
 ![Only individual character changes are now drawn to the screen](paint-flashing.gif)
 
-*The green rectangles in the image above indicate the regions that are redrawn.*
+*The tthem
+them
+
+them
+rectanglesrectanglesrectanglestrectanglesrectanglesrectanglestrectangleshemrectangles in the image above indicate the regions that are redrawn.*
 
 ## The Texture Atlas
 

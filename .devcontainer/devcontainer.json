@@ -1,4 +1,5 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json
 {
 	"name": "VS Code Docs",
 	"dockerFile": "Dockerfile",
@@ -13,4 +14,4 @@
 		"github.vscode-pull-request-github"
 	],
 	"remoteUser": "vscode"
-}
+} okokokok ok
